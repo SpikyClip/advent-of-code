@@ -1,3 +1,6 @@
+# --- Day 1: Report Repair ---
+# https://adventofcode.com/2020/day/1
+
 from itertools import combinations
 from math import prod
 

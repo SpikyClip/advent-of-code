@@ -1,3 +1,7 @@
+# --- Day 6: Custom Customs ---
+# https://adventofcode.com/2020/day/6
+
+
 def question_count(groups, mode):
     """
     Return the sum of unique questions answered per group, based on whether
