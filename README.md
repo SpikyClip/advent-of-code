@@ -41,6 +41,7 @@ My solutions to Advent of Code problems.
 5. [Binary Boarding](2020\05_binary_boarding.py)
 6. [Customs Customs](2020\06_customs_customs.py)
 7. [Handy Haversacks](2020\07_handy_haversacks.py)
+8. [Handheld Halting](2020\08_handheld_halting.py)
 
 ## Additional Information
 
