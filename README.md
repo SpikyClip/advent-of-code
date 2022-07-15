@@ -11,7 +11,7 @@ Unassigned (replace all with desired value):
 
 -->
 
-# Title
+# Advent of Code Solutions
 
 [![GitHub Stars](https://img.shields.io/github/stars/SpikyClip/advent-of-code.svg)](https://github.com/SpikyClip/advent-of-code/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/SpikyClip/advent-of-code.svg)](https://github.com/SpikyClip/advent-of-code/issues)
