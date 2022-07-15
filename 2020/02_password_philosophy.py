@@ -3,7 +3,7 @@
 
 import re
 
-filename = "2.txt"
+filename = "inputs/02.txt"
 with open(filename) as f:
     content = f.read()
 

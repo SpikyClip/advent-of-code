@@ -56,7 +56,7 @@ if __name__ == "__main__":
     max_seat_id = 0
     seat_list = list()
 
-    with open("inputs/5.txt") as f:
+    with open("inputs/05.txt") as f:
         patterns = f.read().splitlines()
 
     for pattern in patterns:

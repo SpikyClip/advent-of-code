@@ -15,7 +15,7 @@ def findsum(values, target, n):
             return prod(combo)
 
 
-filename = "1.txt"
+filename = "inputs/01.txt"
 with open(filename, "r") as f:
     values = [int(x) for x in f.read().splitlines()]
 

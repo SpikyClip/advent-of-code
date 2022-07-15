@@ -74,7 +74,7 @@ def count_bags(leading_bag, bag_dict):
 
 
 if __name__ == "__main__":
-    with open("inputs/7.txt") as f:
+    with open("inputs/07.txt") as f:
         rules = f.read().splitlines()
 
     # Generate bag dictionary from rules

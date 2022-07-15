@@ -1,7 +1,7 @@
 # --- Day 3: Toboggan Trajectory ---
 # https://adventofcode.com/2020/day/3
 
-filename = "3.txt"
+filename = "inputs/03.txt"
 
 with open(filename) as f:
     plot = f.read().splitlines()

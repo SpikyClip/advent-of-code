@@ -83,7 +83,7 @@ def fields_valid(passport_dict):
 
 
 if __name__ == "__main__":
-    filename = "inputs/4.txt"
+    filename = "inputs/04.txt"
     valid_passport_count = 0
 
     with open(filename) as f:

@@ -22,7 +22,7 @@ def question_count(groups, mode):
 
 
 if __name__ == "__main__":
-    with open("inputs/6.txt") as f:
+    with open("inputs/06.txt") as f:
         content = f.read().split("\n\n")
 
     groups = [group.split() for group in content]
