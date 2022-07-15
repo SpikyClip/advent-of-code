@@ -34,14 +34,14 @@ My solutions to Advent of Code problems.
 
 ### 2020
 
-1. [Report Repair](2020\01_report_repair.py)
-2. [Password Philosophy](2020\02_password_philosophy.py)
-3. [Toboggan Trajectory](2020\03_toboggan_trajectory.py)
-4. [Passport Processing](2020\04_passport_processing.py)
-5. [Binary Boarding](2020\05_binary_boarding.py)
-6. [Customs Customs](2020\06_customs_customs.py)
-7. [Handy Haversacks](2020\07_handy_haversacks.py)
-8. [Handheld Halting](2020\08_handheld_halting.py)
+1. [Report Repair](2020/01_report_repair.py)
+2. [Password Philosophy](2020/02_password_philosophy.py)
+3. [Toboggan Trajectory](2020/03_toboggan_trajectory.py)
+4. [Passport Processing](2020/04_passport_processing.py)
+5. [Binary Boarding](2020/05_binary_boarding.py)
+6. [Customs Customs](2020/06_customs_customs.py)
+7. [Handy Haversacks](2020/07_handy_haversacks.py)
+8. [Handheld Halting](2020/08_handheld_halting.py)
 
 ## Additional Information
 
