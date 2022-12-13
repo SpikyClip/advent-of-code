@@ -49,6 +49,7 @@ My solutions to Advent of Code problems.
 2. [Rock Paper Scissors](2022/02_rock_paper_scissors.py)
 3. [Rucksack Reorganisation](2022/03_rucksack_reorganisation.py)
 4. [Camp Cleanup](2022/04_camp_cleanup.py)
+5. [Supply Stacks](2022/05_supply_stacks.py)
 
 ## Additional Information
 
