@@ -43,6 +43,13 @@ My solutions to Advent of Code problems.
 7. [Handy Haversacks](2020/07_handy_haversacks.py)
 8. [Handheld Halting](2020/08_handheld_halting.py)
 
+### 2022
+
+1. [Calorie Counting](2022\01_calorie_counting.py)
+2. [Rock Paper Scissors](2022\02_rock_paper_scissors.py)
+3. [Rucksack Reorganisation](2022\03_rucksack_reorganisation.py)
+4. [Camp Cleanup](2022\04_camp_cleanup.py)
+
 ## Additional Information
 
 ### License
